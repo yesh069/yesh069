@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeshwanth Reddy Vallela</h1>
-<h3 align="center">Student And Freelancer</h3>
+<h3 align="center">Student,Freelancer and Computer Technician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yesh069&label=Profile%20views&color=0e75b6&style=flat" alt="yesh069" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Development ,AI & ML projects**
 
-- 💬 Ask me about **Hardware and Software troubleshooting, Web Development , AI & ML ,Linux.**
+- 💬 Ask me about **Hardware and Software troubleshooting, Web Development , AI & ML ,Linux**
 
 - 📫 How to reach me **yr36363@gmail.com**
 
